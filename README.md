@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Computer Science Student at Ahram Canadian University
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C++, Python, and Data structure,HTML,CSS,Java script or anything related to web development.
+- 💬 Ask me about my experience with C++, Python, and Data structure, Data analysis, Machine Learning, Deep learnig, NLP.
 
 ### Connect with Me :
 
